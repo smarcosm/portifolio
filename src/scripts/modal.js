@@ -70,7 +70,7 @@ const dataProjects = [
       O backend consome esses dados e os disponibiliza para o frontend, que os exibe ao usuário.
       
        `, 
-      videoSrc: 'https://streamable.com/a2ote5',
+      videoSrc: 'https://streamable.com/e/a2ote5',
       linkedin: 'https://www.linkedin.com/feed/update/urn:li:activity:7085713918198726656/',
       repository: 'https://github.com/smarcosm/imersaofullcycle13',
       site: '#'
